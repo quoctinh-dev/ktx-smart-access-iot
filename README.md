@@ -149,12 +149,34 @@ ktx-smart-access-iot
 
 ---
 
+## DAY 02 - VLAN Segmentation & Router-on-a-Stick
+
+![DAY02 Topology](docs/images/day02-vlan-topology.png)
+
+### Hoàn thành
+
+- Requirement Analysis
+- Network Segmentation
+- VLAN Architecture Design
+- VLAN Creation
+- Access Port Assignment
+- Trunk Configuration
+- Router-on-a-Stick
+- Inter-VLAN Routing Design
+- Verification Testing
+
+### Tài liệu
+📄 Chi tiết:
+[DAY02 ](docs/day02/DAY02_SUMMARY.md)
+
+---
+
 ## ROADMAP
 
 | Day    | Nội dung                          | Trạng thái  |
 | ------ | --------------------------------- | ----------- |
 | Day 01 | Network Infrastructure Foundation | ✅ Completed |
-| Day 02 | VLAN Design                       | ⏳ Planned   |
+| Day 02 | VLAN Design                       | ✅ Completed |
 | Day 03 | IoT Architecture Integration      | ⏳ Planned   |
 | Day 04 | Documentation & Presentation      | ⏳ Planned   |
 
