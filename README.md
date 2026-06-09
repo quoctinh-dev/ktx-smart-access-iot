@@ -170,6 +170,75 @@ ktx-smart-access-iot
 [DAY02 ](docs/day02/DAY02_SUMMARY.md)
 
 ---
+DAY 03 - Network Security & Access Control
+
+Hoàn thành
+Security Analysis
+Asset Identification
+Threat Analysis
+Attack Surface Analysis
+Security Objectives Definition
+Security Zone Classification
+Access Control Design
+Subject Identification
+Object Identification
+Access Matrix Design
+Communication Requirement Analysis
+VLAN Communication Matrix
+Security Policy Design
+Least Privilege Principle
+Network Segmentation Policy
+IoT Isolation Policy
+Administrative Access Policy
+Zero Trust Principle
+ACL Architecture Design
+ACL Requirement Analysis
+ACL Placement Strategy
+ACL Enforcement Model
+ACL Rule Design
+ACL Implementation
+ACL-STUDENT-IN
+ACL-IOT-IN
+Interface Binding
+Access Restriction Enforcement
+Verification Testing
+Inter-VLAN Connectivity Testing
+ACL Functional Testing
+Security Validation
+ACL Counter Verification
+Kết quả đạt được
+
+✅ Student VLAN không thể truy cập trực tiếp IoT VLAN
+
+✅ IoT VLAN không thể truy cập trực tiếp Student VLAN
+
+✅ Administrative VLAN được bảo vệ
+
+✅ ACL hoạt động chính xác
+
+✅ Chính sách bảo mật được thực thi thành công
+
+Tài liệu
+
+📄 Security Requirement Analysis
+
+docs/day03/security-requirement-analysis.md
+
+📄 Access Matrix Design
+
+docs/day03/access-matrix-design.md
+
+📄 Security Policy Design
+
+docs/day03/security-policy-design.md
+
+📄 ACL Architecture Design
+
+docs/day03/acl-architecture-design.md
+
+📄 Verification & Security Testing
+
+docs/day03/verification-security-testing.md
 
 ## ROADMAP
 
@@ -177,7 +246,7 @@ ktx-smart-access-iot
 | ------ | --------------------------------- | ----------- |
 | Day 01 | Network Infrastructure Foundation | ✅ Completed |
 | Day 02 | VLAN Design                       | ✅ Completed |
-| Day 03 | IoT Architecture Integration      | ⏳ Planned   |
+| Day 03 | IoT Architecture Integration      | ✅ Completed   |
 | Day 04 | Documentation & Presentation      | ⏳ Planned   |
 
 ---
